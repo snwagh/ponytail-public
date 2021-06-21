@@ -1,0 +1,14 @@
+*.o
+*.a
+*.log
+GetPID.cpp
+GetTime.cpp
+MakeDesc
+TestGetPID
+TestGetTime
+gen_gmp_aux
+gf2x_version_1_2_or_later_required
+hfileout
+makefile
+need-to-run-configure
+setup-phase
